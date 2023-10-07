@@ -1,4 +1,4 @@
-from Game import *
+from GameRunning import *
 
 game = Game()
 game.StartGame()
